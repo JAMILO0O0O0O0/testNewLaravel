@@ -10,7 +10,7 @@
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://test-new-laravel-1g9iojed9-jamilo0o0o0o0.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",

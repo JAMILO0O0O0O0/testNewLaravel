@@ -5,12 +5,12 @@
     },
     "routes": [{
         "src": "/(.*)",
-        "dest": "api/index.php"
+        "dest": "/api/index.php"
     }
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://test-new-laravel-1g9iojed9-jamilo0o0o0o0.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
